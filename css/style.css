@@ -1,0 +1,140 @@
+body{
+  margin: 0;
+  background-color: #fbf4f9;
+  text-align: center;
+  font-family: 'Poppins', serif ;
+  font-weight: 200,400,600;
+  font-size: 15px;
+}
+hr{
+  background-color: #c81912;
+}
+.first{
+ color: #cccccc;
+ line-height: 1;
+}
+.second{
+  color: #333333;
+}
+.paragraph{
+  color: #cccccc;
+  width: 35%;
+  padding-left: 35%;
+}
+.team{
+  height: 250px;
+  background-color: #fffdf9;
+  width: 350px;
+  margin-left: 250px;
+  margin-top: 50px;
+  position: relative;
+  left: 250px;
+  bottom: 0;
+  box-shadow: 0 0 5px 0;
+}
+.sec{
+  width: 300px;
+  color:  #cccccc;
+}
+.teamb{
+  float: right;
+  padding-right: 50px;
+}
+.build{
+  padding-right: 150px;
+}
+.superviser{
+    height: 250px;
+    background-color: #fffdf9;
+    width: 350px;
+    position: absolute;
+    bottom: 50px;
+    left: 120px;
+    box-shadow: 0 0 5px 0;
+}
+.super{
+  margin-top: 0;
+  background-color: #05dfd7;
+}
+.visor{
+  padding-right: 180px;
+}
+.opt{
+  position: relative;
+  left: 5px;
+}
+.secd{
+  width: 100%;
+  margin-left: 25px;
+  color: #cccccc;
+  }
+  .sece{
+    position: relative;
+    top: 30px;
+    right: 256px;
+  }
+  .SUPER{
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    top: 150px;
+    left: 250px;
+  }
+.karma{
+  height: 250px;
+  background-color: #fffdf9;
+  width: 350px;
+  position: absolute;
+  right: 500px;
+  top: 500px;
+  box-shadow: 0 0 5px 0;
+}
+.karm{
+  margin-top: 0;
+  background-color: #ffa41b;
+ }
+.ma{
+  padding-right: 220px;
+}
+.arm{
+  float: left;
+  margin-top: 0;
+  width: 300px;
+  color: #cccccc;
+}
+.icon{
+ position: relative;
+ left: 120px;
+ top: 50px;
+}
+.qua{
+padding-right: 150px;
+}
+.calc{
+  height: 250px;
+  background-color: #fffdf9;
+  width: 350px;
+  position: absolute;
+  right: 110px;
+  top: 355px;
+  box-shadow: 0 0 5px 0;
+}
+.cu{
+  background-color: #323edd;
+  margin-top: 0;
+}
+.la{
+  padding-right: 180px;
+}
+.tor{
+  float: right;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+.delv{
+  padding-left: 5px;
+  color: #cccccc;
+}
+.est{
+  padding-right: 100px;
+}
